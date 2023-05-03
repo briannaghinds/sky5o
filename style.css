@@ -154,18 +154,6 @@ nav ul li a:hover::after{
     margin-bottom: 20px;
 }
 
-/* .layer a{
-    margin-top: 20px;
-    color: #1d4d7c;
-    text-decoration: none;
-    font-size: 18px;
-    line-height: 60px;
-    background: #000;
-    width: 60px;
-    height: 60px;
-    text-align: center;
-}  */
-
 .us:hover img{
     transform: scale(1.1);
 }
@@ -179,4 +167,5 @@ nav ul li a:hover::after{
 #whatwedo{
     padding: 10px 5%;
     margin: 45px;
+    font-size: 20px
 }
